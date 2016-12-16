@@ -38,7 +38,7 @@
         <snapshotRepository>
             <id>shapshots</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://localhost:8082/nexus/content/repositories/releases/</url>
+            <url>http://localhost:8082/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>  
     </distributionManagement>
     <build>
